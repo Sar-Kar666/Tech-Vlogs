@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://tech-blog.vercel.app'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://tech-vlogs.vercel.app'),
   title: {
     default: 'TechBlog - Latest Technology Articles & Insights',
     template: '%s | TechBlog',
