@@ -4,8 +4,8 @@ A fast, SEO-optimized tech blog website built with Next.js 15, TypeScript, and T
 
 ## 🚀 Live Demo
 
-- **Live URL**: 
-- **Repository**: 
+- **Live URL**:  https://tech-vlogs.vercel.app/
+- **Repository**: https://github.com/Sar-Kar666/Tech-Vlogs
 
 ## 🛠 Technology Stack
 
