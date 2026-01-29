@@ -69,6 +69,8 @@ The search and filter functionality is implemented client-side for instant feedb
 <img width="1901" height="991" alt="image" src="https://github.com/user-attachments/assets/d8c8b0e5-1bb4-400b-8467-ad5adc7dd9ab" />
 
 
+
+
 | Category | Score | Notes |
 |----------|-------|-------|
 | **Performance** | 99 | Optimized images, server components |
