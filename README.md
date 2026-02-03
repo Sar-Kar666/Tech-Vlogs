@@ -16,7 +16,7 @@ A fast, SEO-optimized tech blog website built with Next.js 15, TypeScript, and T
 - **Icons**: Lucide React (via inline SVGs for performance)
 - **Deployment**: Vercel
 
-## ✨ Features
+##  Features
 
 - **Responsive Design**: Mobile-first approach (1 col → 2 cols → 3 cols)
 - **Search & Filter**: Combined real-time filtering by search term and category
